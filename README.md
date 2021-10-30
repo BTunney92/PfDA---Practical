@@ -11,3 +11,4 @@ References
 7) https://www.javatpoint.com/numpy-random
 8) https://numpy.org/doc/1.16/reference/generated/numpy.random.shuffle.html#numpy.random.shuffle
 9) https://numpy.org/doc/stable/reference/random/generated/numpy.random.permutation.html
+10) https://www.probabilitycourse.com/chapter4/4_2_2_exponential.php
