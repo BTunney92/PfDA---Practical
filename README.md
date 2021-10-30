@@ -8,3 +8,5 @@ References
 4) https://numpy.org/doc/stable/reference/random/index.html#module-numpy.random
 5) https://encyclopedia2.thefreedictionary.com/pseudo-random+numbers
 6) https://numpy.org/doc/1.16/reference/routines.random.html
+7) https://www.javatpoint.com/numpy-random
+8) https://numpy.org/doc/1.16/reference/generated/numpy.random.shuffle.html#numpy.random.shuffle
