@@ -13,4 +13,5 @@ References
 9) https://numpy.org/doc/stable/reference/random/generated/numpy.random.permutation.html
 10) https://www.probabilitycourse.com/chapter4/4_2_2_exponential.php
 11) https://stackoverflow.com/questions/53334421/futurewarning-with-distplot-in-seaborn
-12) https://stats.stackexchange.com/questions/354373/what-exactly-is-a-seed-in-a-random-number-generator
+12) https://numpy.org/doc/stable/reference/random/generated/numpy.random.exponential.html
+17) https://stats.stackexchange.com/questions/354373/what-exactly-is-a-seed-in-a-random-number-generator
