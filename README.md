@@ -15,4 +15,6 @@ References
 11) https://stackoverflow.com/questions/53334421/futurewarning-with-distplot-in-seaborn
 12) https://numpy.org/doc/stable/reference/random/generated/numpy.random.exponential.html
 13) https://www.investopedia.com/terms/p/poisson-distribution.asp
+14) https://numpy.org/doc/stable/reference/random/generated/numpy.random.poisson.html
+15) https://instatsport.com/football/article/penalty_research
 17) https://stats.stackexchange.com/questions/354373/what-exactly-is-a-seed-in-a-random-number-generator
