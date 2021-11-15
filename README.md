@@ -4,7 +4,7 @@ Author: Brendan Tunney
 
 Student ID - G00270683
 
-# Problem statement
+### Problem statement
 
 The following assignment concerns the numpy.random package in Python [2]. You are
 required to create a Jupyter [5] notebook explaining the use of the package, including
@@ -18,6 +18,16 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 3. Explain the use and purpose of at least five “Distributions” functions.
 
 4. Explain the use of seeds in generating pseudorandom numbers.
+
+### How to run
+
+To run the program, you will first need to have Anaconda installed on your device. It can be downloaded at the below link;
+
+https://docs.anaconda.com/anaconda/install/index.html
+
+Once installed, open a juptyer notebook and open Numpy.ipynb file.
+
+Click ''Kernal'' on the menu and then ''Restart Kernel and Run All''.
 
 References
 
